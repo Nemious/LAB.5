@@ -24,4 +24,4 @@ __Испольнитель:__
 ![image](https://github.com/Nemious/LAB.5/assets/146121558/17a84d60-6c34-43fc-b2e5-0e2ce92dc602)
 
 Шифровка:
-![image](https://github.com/Nemious/LAB.5/assets/146121558/048b7d9a-3643-4cf1-9de5-ac6140646465)
+![image](https://github.com/Nemious/LAB.5/assets/146121558/fd366c72-df88-4f59-8eb0-fcbb3c27dc34)
